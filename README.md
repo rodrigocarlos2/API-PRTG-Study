@@ -15,3 +15,7 @@ https://yourserver/api/table.json?sensors.htm?id=10155&filter_status=2&filter_st
 https://yourserver/api/table.xml?content=devices&output=html&columns=device
 
 * This command present all devices.
+
+https://prtg.virtex.com.br/api/table.json?content=sensors&output=html&columns=device,sensor
+
+* This command shows all devices and your sensors.
